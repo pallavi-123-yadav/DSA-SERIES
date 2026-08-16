@@ -5,18 +5,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 ## Array
 |  |
 | ------- |
