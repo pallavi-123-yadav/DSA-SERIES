@@ -33,15 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
