@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
