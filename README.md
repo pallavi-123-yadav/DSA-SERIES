@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0965-univalued-binary-tree) |
 ## Array
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
