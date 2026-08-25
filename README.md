@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
