@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
