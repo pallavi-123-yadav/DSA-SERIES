@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
