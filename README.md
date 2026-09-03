@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
