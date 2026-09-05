@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0004-median-of-two-sorted-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0190-reverse-bits) |
