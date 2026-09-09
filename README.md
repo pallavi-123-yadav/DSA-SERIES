@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -197,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
