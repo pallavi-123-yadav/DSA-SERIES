@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
+| [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
