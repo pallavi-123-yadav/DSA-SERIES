@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -211,8 +212,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
