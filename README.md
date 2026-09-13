@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0951-flip-equivalent-binary-trees) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
@@ -198,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
