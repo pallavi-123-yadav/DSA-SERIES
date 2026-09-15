@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
+| [0941-valid-mountain-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1470-shuffle-the-array) |
