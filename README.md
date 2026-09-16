@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
+| [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
