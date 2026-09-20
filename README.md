@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
