@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3452-sum-of-good-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3452-sum-of-good-numbers) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
