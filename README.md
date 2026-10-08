@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3452-sum-of-good-numbers](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3452-sum-of-good-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
