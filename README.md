@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
