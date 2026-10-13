@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
