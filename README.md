@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
