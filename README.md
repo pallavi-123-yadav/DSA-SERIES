@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
+| [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Euclidean Algorithm
 |  |
@@ -325,5 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
