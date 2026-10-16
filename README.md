@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [0572-subtree-of-another-tree](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0649-dota2-senate) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -363,4 +365,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
