@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
 | [0941-valid-mountain-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0941-valid-mountain-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -366,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
