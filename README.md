@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
+| [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0941-valid-mountain-array](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0941-valid-mountain-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0994-rotting-oranges) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
+| [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3731-find-missing-elements](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
+| [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Euclidean Algorithm
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
+| [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
