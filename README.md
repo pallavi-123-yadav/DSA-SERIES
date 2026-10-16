@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0493-reverse-pairs) |
+| [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -359,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
