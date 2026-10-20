@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0238-product-of-array-except-self) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
