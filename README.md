@@ -260,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0950-reveal-cards-in-increasing-order) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
