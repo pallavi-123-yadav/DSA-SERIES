@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0733-flood-fill) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/pallavi-123-yadav/DSA-SERIES/tree/master/0907-sum-of-subarray-minimums) |
